@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "1"
+      },
+      "fields": {
+        "title": "Mi note 6",
+        "price": 20000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mi.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2"
+      },
+      "fields": {
+        "title": "Mi pro ",
+        "price": 30000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mi2.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3"
+      },
+      "fields": {
+        "title": "Mi 5",
+        "price": 50000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/mi1.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4"
+      },
+      "fields": {
+        "title": "Samsung note 7",
+        "price": 90000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/samsung3.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5"
+      },
+      "fields": {
+        "title": "Oppo pro max",
+        "price": 20000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/oppo1.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6"
+      },
+      "fields": {
+        "title": "Samsung galaxy",
+        "price": 15000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/samsung.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "7"
+      },
+      "fields": {
+        "title": "Samsung galaxy S6",
+        "price": 18000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/samsung1.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8"
+      },
+      "fields": {
+        "title": "Samgung note 7",
+        "price": 90000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/samsung3.png"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
